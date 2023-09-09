@@ -193,4 +193,8 @@ img {
     .product__title {
         font-size: 2rem;
     }
+
+    .product__category, .product__title, .product__info, .product__price {
+        margin-bottom: 1.25rem;
+    }
 }
