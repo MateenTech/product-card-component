@@ -2,7 +2,11 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges me to improve my coding skills by building realistic projects. 
 
-![](./design/desktop-design.jpg) ![](./images/image-product-mobile.jpg)
+# Desktop Preview
+![](./design/desktop-design.jpg) 
+# Mobile Preview
+![](./design/mobile-design.jpg)
+
 ## Table of contents
 
 - [Overview](#overview)
